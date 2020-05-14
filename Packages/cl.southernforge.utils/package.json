@@ -1,0 +1,17 @@
+{
+  "name": "cl.southernforge.utils",
+  "version": "0.0.1",
+  "displayName": "SouthernForge Utils",
+  "description": "SouthernForge common utilities",
+  "unity": "2019.1",
+  "dependencies": {},
+  "keywords": [
+    "utilities",
+    "southernforge"
+  ],
+  "author": {
+    "name": "Sebastian Vizcay",
+    "email": "sebastian.vizcay@usach.cl",
+    "url": "http://www.southernforge.cl"
+  }
+}
