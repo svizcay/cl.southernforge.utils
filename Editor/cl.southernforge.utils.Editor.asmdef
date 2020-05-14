@@ -1,6 +1,8 @@
 {
     "name": "cl.southernforge.utils.Editor",
-    "references": [],
+    "references": [
+        "GUID:5e60c6d5adeffb8429527cde8d9053c9"
+    ],
     "includePlatforms": [
         "Editor"
     ],
