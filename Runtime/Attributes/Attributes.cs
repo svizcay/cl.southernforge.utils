@@ -1,5 +1,7 @@
 ﻿using UnityEngine;
 using System;   // for AttributeUsage, AttributeTargets
+using System.Reflection;
+using System.Collections.Generic;
 #if UNITY_EDITOR
 using UnityEditor;
 #endif
@@ -59,7 +61,6 @@ namespace SouthernForge.Utils
 
     }
     #endregion displayGridMatrix attribute
-
 
 #if UNITY_EDITOR
     [CustomPropertyDrawer( typeof( EnumFlags ) )]
